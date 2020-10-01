@@ -12,3 +12,4 @@ The file bfs.py does same function as knn.py.
 The only difference is the way it finds the nearest edge to given cell.
 In order to find the nearest edge, Breadth First Search algorithm is applied on the image matrix.
 Then the result is printed in the output.
+\\Changes: Python DataStructures are must for competitive programming
